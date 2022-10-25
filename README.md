@@ -5,12 +5,13 @@ Diabetic Retinopathy (DR) is a common complication of diabetes mellitus, which c
 
 **Project Objectives**
 
+•	Know fundamental concepts and techniques of transfer learning like Xception.
 
-	Know fundamental concepts and techniques of transfer learning like Xception.
+•	Gain a broad understanding of image data.
 
-	Gain a broad understanding of image data.
+•	Know how to pre-process/clean the data using different data pre-processing techniques.
 
-	Know how to pre-process/clean the data using different data pre-processing techniques.
+•	Know how to build a web application using the Flask framework
 
-	Know how to build a web application using the Flask framework
-
+**Technical Architecture**
+![technical architecture](https://user-images.githubusercontent.com/65432217/197691551-991c76ac-1788-4c3f-a2c5-17b8f0638f6c.png)
