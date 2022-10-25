@@ -14,6 +14,7 @@ Diabetic Retinopathy (DR) is a common complication of diabetes mellitus, which c
 •	Know how to build a web application using the Flask framework
 
 **Project Flow**
+
 The user interacts with the UI (User Interface) to choose the image. The chosen image analyzed by the model which is integrated with flask application. The Xception Model analyzes the image, then the prediction is showcased on the Flask UI.
 
 To accomplish this
